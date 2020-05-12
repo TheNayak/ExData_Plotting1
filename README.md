@@ -1,5 +1,7 @@
 ## Introduction
 
+The figure fo;der contains the 4 genereted plots and the corresponding R codes.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
