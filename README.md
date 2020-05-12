@@ -1,6 +1,6 @@
 ## Introduction
 
-The figure folder contains the 4 genereted plots and the corresponding R codes.
+The figure folder contains the 4 genereted plots and the corresponding R codes. The final plots are shown at the end of the file.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
